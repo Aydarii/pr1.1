@@ -13,6 +13,8 @@
         <TextBlock HorizontalAlignment="Left" Margin="48,272,0,0" TextWrapping="Wrap" Text="Слоны - это самое лучшее животное на планете. Она умеет поливать фонтаном из носа" VerticalAlignment="Top" Width="186" Height="51"/>
         <TextBlock HorizontalAlignment="Left" Margin="292,382,0,0" TextWrapping="Wrap" Text="парнокопытное млекопитающее из семейства жирафовых." VerticalAlignment="Top" Width="322"/>
         <TextBlock HorizontalAlignment="Left" Margin="640,231,0,0" TextWrapping="Wrap" Text="хищное млекопитающее семейства кошачьих, один из пяти видов рода пантер" VerticalAlignment="Top"/>
+        <Image Margin="335,10,292,287" Source="/Pictures/cat.jpg" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="335,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" Height="51"><Run Language="ru-ru" Text="Это кот. Кот умеет кушать, спать и ходить в туалет. Больше он ничего не умеет делать"/></TextBlock>
 
 
     </Grid>

@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:pr1_sagirov"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Background="LightYellow">
     <Grid>
+        <Image Margin="10,60,529,178" Source="/Pictures/elephant.jpeg" Stretch="Fill"/>
+        <Image Margin="292,231,292,57" Source="/Pictures/giraffe.jpg" Stretch="Fill"/>
+        <Image Margin="632,77,44,217" Source="/Pictures/tiger.jpg" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="48,272,0,0" TextWrapping="Wrap" Text="Слоны - это самое лучшее животное на планете. Она умеет поливать фонтаном из носа" VerticalAlignment="Top" Width="186" Height="51"/>
+        <TextBlock HorizontalAlignment="Left" Margin="292,382,0,0" TextWrapping="Wrap" Text="парнокопытное млекопитающее из семейства жирафовых." VerticalAlignment="Top" Width="322"/>
+        <TextBlock HorizontalAlignment="Left" Margin="640,231,0,0" TextWrapping="Wrap" Text="хищное млекопитающее семейства кошачьих, один из пяти видов рода пантер" VerticalAlignment="Top"/>
+
 
     </Grid>
 </Window>
